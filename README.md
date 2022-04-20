@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center">Hi there ! Welcome to <a href="https://github.com/gsiekaniec">Grégoire Siekaniec</a>'s Profile</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&duration=6500&color=6C291B&size=12&width=700&height=60&vCenter=true&center=true&multiline=true&lines=This+is+a+completely+useless,+uninteresting,+meaningless+and+irrelevant+sentence.;What+are+you+still+doing+here+reading+this...;Don't+you+have+work+to+do?" /></a>
+</p>
 
-<!--
-**gsiekaniec/gsiekaniec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>👋 Hi, I’m Gregoire</li>
+  <li>💻 Favorite language: Python</li>
+  <li>💼 I am a bioinformatician at the ICO working on exome data from metastatic breast cancer</li>
+  <li>📄 My french resume can be found <a href="https://gsiekaniec.github.io/CV/CV.pdf">here</a></li>
+  <li>🐇 Friends of rabbits</li>
+  <li>🎨 Budding draughtsman</li>
+  <li>🧗 Sports: slackline, climbing </li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>Software</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>🦠 ORI is available <a href="https://github.com/gsiekaniec/ORI/">here</a>: <code>ORI (Oxford nanopore Reads Identification) is a software allowing, from long nanopore reads, to identify the bacterial strains present in a sample</code></p>
+
+</br>
+<p align="center">
+  <img src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"; width=30%; height=30%>
+</p>
+
