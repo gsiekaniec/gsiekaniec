@@ -12,7 +12,7 @@
   <li>📄 My french resume can be found <a href="https://gsiekaniec.github.io/CV/CV.pdf">here</a></li>
   <li>🐇 Friends of rabbits</li>
   <li>🎨 Budding draughtsman</li>
-  <li>🧗 Sports: slackline, climbing </li>
+  <li>🧗 Sports: climbing, slackline</li>
 </ul>
 
 <h2>Software</h2>
