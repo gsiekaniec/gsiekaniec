@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi there ! Welcome to <a href="https://github.com/gsiekaniec">Grégoire Siekaniec</a>'s Profile</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/gsiekaniec">Grégoire Siekaniec</a>'s Profile</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&duration=6500&color=6C291B&size=12&width=700&height=60&vCenter=true&center=true&multiline=true&lines=This+is+a+completely+useless,+uninteresting,+meaningless+and+irrelevant+sentence.;What+are+you+still+doing+here+reading+this...;Don't+you+have+work+to+do?" /></a>
