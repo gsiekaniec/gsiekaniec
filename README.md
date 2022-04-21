@@ -9,7 +9,7 @@
   <li>👋 Hi, I’m Gregoire</li>
   <li>💻 Favorite language: Python</li>
   <li>💼 I am a bioinformatician at the ICO working on exome data from metastatic breast cancer</li>
-  <li>📄 My french resume can be found <a href="https://gsiekaniec.github.io/CV/CV.pdf">here</a></li>
+  <li>📄 For details on my scientific background my french resume can be found <a href="https://gsiekaniec.github.io/CV/CV.pdf">here</a></li>
   <li>🐇 Friends of rabbits</li>
   <li>🎨 Budding draughtsman</li>
   <li>🧗 Sports: climbing, slackline</li>
