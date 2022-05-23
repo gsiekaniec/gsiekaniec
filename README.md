@@ -21,8 +21,6 @@
 
 </br>
 <p align="center">
-  <center>
-  <img src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"; width=30%; height=auto>
-  </center>
+  <img width=200 height=200 src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
 </p>
 
