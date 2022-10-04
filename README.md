@@ -1,11 +1,10 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/gsiekaniec">Grégoire Siekaniec</a>'s Profile</h1>
 </p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&duration=6500&color=6C291B&size=12&width=700&height=60&vCenter=true&multiline=true&lines=I+am+currently+working+on+the+development+of+g-LOTUS,a+software+for+longitudinal+tumors+comparison." /></a>
-</p>
 
----
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&duration=6500&color=6C291B&size=15&width=900&height=60&vCenter=true&multiline=true&lines=I+am+currently+working+on+the+development+of+g-LOTUS,a+software+for+longitudinal+tumors+comparison." /></a>
+</p>
 
 <ul>
   <li>👋 Hi, I’m Gregoire</li>
