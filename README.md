@@ -23,7 +23,7 @@
 <p align="center"><img width=130 height=130 src="https://github.com/gsiekaniec/ORI/blob/dev/img/Logo.png"/></p> 
 <p align="center">ORI is available <a href="https://github.com/gsiekaniec/ORI/">here</a>: <code>ORI (Oxford nanopore Reads Identification) is a software allowing, from long nanopore reads, to identify the bacterial strains present in a sample</code></p>
 <p align="center"><img width=150 height=150 src="https://github.com/gsiekaniec/g-LOTUS/blob/main/img/g-LOTUS.gif"/></p>
-<p align="center">g-LOTUS is under development: <code>g-LOTUS (genomic LOngitudinal TUmor Study) is a software to process tumor data longitudinally with two or more points to better understand the tumor progression. The input data must be a file containing the variants (.vcf) processed following the GATK best practices and annotated with Funcotator.</code></p>
+<p align="center">g-LOTUS is under development: <code>g-LOTUS (genomic LOngitudinal TUmor Study) is a software to process tumor data longitudinally with two or more points to better understand the tumor progression.</code></p>
 
 ---
 
