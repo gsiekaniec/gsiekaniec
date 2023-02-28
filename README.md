@@ -21,9 +21,9 @@
 <h2>Software</h2>
 
 <p align="center"><a href="https://github.com/gsiekaniec/ORI"><img width=130 height=130 src="https://github.com/gsiekaniec/ORI/blob/dev/img/Logo.png"/></a></p> 
-<p align="center">ORI is available <a href="https://github.com/gsiekaniec/ORI/">here</a>: <code>ORI (Oxford nanopore Reads Identification) is a software allowing, from long nanopore reads, to identify the bacterial strains present in a sample</code></p>
+<p align="center">ORI is available <a href="https://github.com/gsiekaniec/ORI">here</a>: <code>ORI (Oxford nanopore Reads Identification) is a software allowing, from long nanopore reads, to identify the bacterial strains present in a sample</code></p>
 <p align="center"><a href="https://github.com/gsiekaniec/LOTUS"><img width=150 height=150 src="https://github.com/gsiekaniec/g-LOTUS/blob/main/img/LOTUS.gif"/></a></p>
-<p align="center">LOTUS is under development: <code>LOTUS (LOngiTUdinal comparative genomics Study) is a software for processing genomic data longitudinally to better understand the evolution between two or more conditions.</code></p>
+<p align="center">LOTUS is available <a href="https://github.com/gsiekaniec/LOTUS">here</a>: <code>LOTUS (LOngiTUdinal comparative genomics Study) is a software for processing genomic data longitudinally to better understand the evolution between two or more conditions.</code></p>
 
 ---
 
