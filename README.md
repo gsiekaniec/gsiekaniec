@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&duration=6500&color=6C291B&size=15&width=900&height=60&vCenter=true&multiline=true&lines=I+am+currently+working+on+the+development+of+LOTUS,a+software+for+longitudinal+tumors+comparison." /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&duration=6500&color=6C291B&size=15&width=900&height=60&vCenter=true&multiline=true&lines=..." /></a>
 </p>
 
 <ul>
