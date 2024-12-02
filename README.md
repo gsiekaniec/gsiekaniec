@@ -10,8 +10,8 @@
   <li>👋 Hi, I’m Gregoire</li>
   <li>💻 Favorite language: Python</li>
   <li>💼 I am a bioinformatician</li>
-  <li>📄 For details on my scientific background my french resume can be found <a href="https://gsiekaniec.github.io/resume/resume.pdf">here</a></li>
-  <li>🐇 Friends of rabbits</li>
+  <li>📄 For details on my scientific background my resume can be found <a href="https://gsiekaniec.github.io/resume/resume.pdf">here</a></li>
+  <li>🐀 Friends of animals</li>
   <li>🎨 Budding draughtsman</li>
   <li>🧗 Sports: climbing, slackline, longboard</li>
 </ul>
